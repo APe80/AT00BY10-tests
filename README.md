@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/APe80/AT00BY10-tests/badge.svg?branch=main)](https://coveralls.io/github/APe80/AT00BY10-tests?branch=main)
+
 # Student template
 
 ## Purpose of this repository

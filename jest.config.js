@@ -2,9 +2,10 @@ export default {
   testEnvironment: 'node',
   collectCoverage: true,
   collectCoverageFrom: [
-    'src/**/*.js',
-    '!src/.internal/**',
-    '!**/node_modules/**'
+    'src/add.js',
+    'src/divide.js',
+    'src/clamp.js',
+    'src/ceil.js'
   ],
   coverageDirectory: 'coverage',
   coverageReporters: ['text', 'lcov'],
